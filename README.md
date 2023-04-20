@@ -2,4 +2,4 @@
 
 Network Diagram
 
-![image](https://user-images.githubusercontent.com/87240174/233497146-f0b87cd8-430d-4cc6-8466-b48df76297b2.jpg)
+![image (1)](https://user-images.githubusercontent.com/87240174/233501616-d7aae773-729d-4d86-888d-faf1eae8e4b7.jpg)
